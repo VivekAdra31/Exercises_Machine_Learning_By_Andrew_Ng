@@ -4,7 +4,7 @@ These Exercises are in GNU-Octave and contain optimized Vectorized implementatio
 
 The course covered theoretical and mathematical background and then implementation of the algorithms on GNU-Octave.Andrew Ng discusses and gives lots of Real-Life advice for applying Machine Learning.
 
-## Knowlege Gained and Showcases throught the Exercises:
+## Knowlege Gained and Showcased throught the Exercises:
 1. Basics Of Machine Learning
 2. Linear Algebra
 3. Linear Regression(Univariate and Multivariate),Polynomial Regression and Gradient Descent
